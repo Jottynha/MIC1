@@ -22,13 +22,6 @@ Este projeto, chamado **MIC1**, foi desenvolvido no Quartus II e tem como objeti
 - **VHDL ou Verilog:** Linguagem de descrição de hardware usada para implementar os componentes do MIC1.
 - **ModelSim (opcional):** Para simulação e depuração dos componentes e interação entre a ULA, banco de registradores e memória.
 
-## Estrutura do Projeto
-
-- `ULA/`: Arquivos que definem a Unidade Lógica e Aritmética.
-- `Registradores/`: Código relacionado ao banco de registradores e suas operações.
-- `Memoria/`: Implementação da memória para armazenamento de dados e instruções.
-- `Testes/`: Arquivos de teste e simulação para verificar o funcionamento correto dos componentes.
-
 ## Funcionalidades do MIC1
 
 - **Execução de Operações Aritméticas e Lógicas:** A ULA permite a execução de operações como adição, subtração, e operações lógicas como AND e OR.
